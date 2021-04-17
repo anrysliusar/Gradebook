@@ -1,3 +1,3 @@
 # Gradebook
 
-![db](/images/database.png)
+![db](./images/database.png)
